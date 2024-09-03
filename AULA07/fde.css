@@ -1,0 +1,27 @@
+ form{
+   border: 3px solid blue;
+  
+   padding: 20px;
+   margin-left: 100px;
+   margin-right: 100px;
+   background-color: aliceblue;
+   border-style:hidden;
+ }
+#idade{
+    width: 28px;
+
+
+}
+input{
+    background-color:deepskyblue;
+     
+    
+  } 
+
+
+#cep{
+    width: 93px;
+}
+#email{
+    width:160px ;
+}
